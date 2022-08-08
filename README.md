@@ -1,8 +1,10 @@
-## Hello👋
-My name is Yerai,I'm from spain and i are developer of Discord Bots and Fivem.
-🌟I'm currently working for FiveX Shop (https://discord.gg/sBMcNr4vny)
-🌟 Also, I am programming a bot and a web page, you can find the bot in my discord, and the page is located in my github profile.
+### Hi 👋, my name is Yerai
+![](https://cdn.discordapp.com/attachments/1002291354258374718/1006276446022541442/CJ2CXh_UAAA8FD7-removebg-preview_2.png)
 
-## Contact 
-💌 You can contact with me for discord,my discord is ! ErYerai#0970.
-💌 For any question,open a ticket in my discord.
+I currently program discord bots and FiveM servers
+
+### Skills: 👨‍💻 LUA 📱  HTML
+
+- 🌟 I’m currently working on FiveX Shop
+- 🌟 I’m currently learning LUA and JS
+- 🌟 I’m looking to collaborate on Five M Servers 
